@@ -1,5 +1,1 @@
-wow, everything is working perfectly. this commit is 
-where i want to revert to if i make a mistake in a future commit.
-
-attempting to revert remote git repo
-where i want to revert to if i make a mistake in a future commit.
+change 1 change
