@@ -1,2 +1,4 @@
 wow, everything is working perfectly. this commit is 
 where i want to revert to if i make a mistake in a future commit.
+
+continuin on my merry way developing bug free code
